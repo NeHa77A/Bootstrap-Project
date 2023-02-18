@@ -1,0 +1,35 @@
+body{
+    background: url(background2.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    margin: 25px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+blockquote{
+    color:#FF00FF;
+    float: right;
+    position: relative;
+    top: 220px;
+    right: 0%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.blockquote-footer{
+    float: right;
+}
+.container{
+    height: auto;
+    float: left;
+
+}
+.Narayana{
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 200;
+    color: #250456;
+    width: 800px;
+}
